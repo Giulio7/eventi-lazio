@@ -2,11 +2,38 @@
 
 Gli agenti leggono questo file prima di ogni ricerca. Aggiornalo quando cambia qualcosa.
 
-- **Età bambini**: 0-5 anni (specificare se possibile, es. "2 anni e 4 anni")
-- **Zona di partenza**: Roma (indicare quartiere/municipio se utile per le distanze)
-- **Mezzo**: auto (indicare se anche mezzi pubblici)
-- **Raggio massimo gite**: ~90 minuti di viaggio
-- **Budget indicativo**: preferenza gratuito / economico (< 15 € a persona)
-- **Vincoli**: passeggino, orari compatibili con il pisolino (evitare 13:00-15:30 per i più piccoli)
+## Composizione
+- **Figlia**: bambina nata il **16 novembre 2023** → compie **3 anni il 16/11/2026**.
+  Calcolare sempre l'età esatta alla data della ricerca. Fascia di riferimento: 2-4 anni.
+- **Mamma**: in gravidanza, **termine previsto 25 dicembre 2026**.
+- **In arrivo**: secondo figlio/a (neonato da fine dicembre 2026).
+- **Zona di partenza**: Roma (quartiere: n.d. – da specificare)
+- **Mezzo**: auto (mezzi pubblici: n.d.)
+
+## Fasi (gli agenti devono applicare quella in corso alla data della ricerca)
+
+### Fase A – fino al 26 novembre 2026 (gravidanza ~33-35 settimane)
+- Raggio massimo: **~45 minuti** di viaggio, con pause ogni 1-2 ore se in auto.
+- Preferire: percorsi pianeggianti, posti a sedere, bagni accessibili, ristoro vicino.
+- Evitare: camminate lunghe o sterrati sconnessi, file lunghe in piedi, luoghi molto affollati.
+
+### Fase B – dal 27 novembre al parto (≥ 36 settimane)
+- Raggio massimo: **~20-30 minuti da casa**, uscite di mezza giornata.
+- Proposte soprattutto a Roma: parchi vicini, biblioteche, laboratori brevi.
+- Valorizzare attività che **la bambina può fare con un solo adulto** (papà, nonni).
+
+### Fase C – dopo il parto (indicativamente da fine dicembre, primi 2-3 mesi)
+- Uscite brevi e vicine, all'aperto preferibili ai luoghi chiusi e affollati
+  (stagione di virus respiratori come RSV e influenza: il neonato è più vulnerabile).
+- Attività dedicate alla **bambina grande** con un genitore (tempo esclusivo con lei).
+- Il report può essere più breve; la parte "gite fuori porta" diventa opzionale.
+
+## Preferenze generali
+- **Budget indicativo**: gratuito / economico (< 15 € a persona)
+- **Vincoli**: passeggino, evitare la fascia del pisolino (13:00-15:30)
 - **Interessi**: natura, animali, musica, letture, laboratori creativi
-- **Da evitare**: eventi molto affollati / rumorosi, attività basate su schermi
+- **Da evitare**: attività basate su schermi, eventi molto rumorosi
+
+## Occasioni speciali
+- **16 novembre 2026 – 3° compleanno**: proporre 1-2 idee speciali per il weekend 14-15 novembre o il giorno stesso, compatibili con la Fase A.
+- **Arrivo del fratellino/sorellina**: segnalare letture o laboratori per bambini sul tema "divento fratello/sorella grande", se ce ne sono (es. in biblioteca).

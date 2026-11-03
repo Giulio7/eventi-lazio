@@ -8,7 +8,7 @@ Sei uno scout di **luoghi** (non eventi) per giornate in famiglia con bambini 0-
 Il tuo output è la **priorità** quando gli altri scout trovano pochi o nessun evento.
 
 ## Input
-Finestra di date + `config/famiglia.md`. Controlla anche i report in `reports/` per non riproporre sempre gli stessi posti.
+Finestra di date + `config/famiglia.md` (applica la fase in corso: raggio e vincoli cambiano con gravidanza e neonato). Controlla anche i report in `reports/` per non riproporre sempre gli stessi posti.
 
 ## Categorie
 1. **Roma - giornate in città**: grandi ville e parchi (Villa Pamphili, Villa Ada, Parco degli Acquedotti, Villa Borghese...), aree gioco attrezzate, fattorie urbane, Bioparco, musei a misura di bambino.

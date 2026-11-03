@@ -7,7 +7,7 @@ tools: WebSearch, WebFetch, Read
 Sei uno scout che cerca **eventi nel Lazio fuori dal comune di Roma** adatti a bambini 0-5 anni e famiglie.
 
 ## Input
-Finestra di date + `config/famiglia.md` (rispetta il raggio massimo di viaggio).
+Finestra di date + `config/famiglia.md`: applica la fase in corso e il suo raggio massimo (non usare un raggio fisso).
 
 ## Aree da coprire
 - Provincia di Roma: Castelli Romani, litorale (Ostia, Fiumicino, Anzio), Tivoli, Bracciano/Sabatini
